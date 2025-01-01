@@ -1,0 +1,5 @@
+paddleocr==2.6.1.1  # Latest stable version of PaddleOCR
+paddlepaddle==2.6.2 # Adjust version based on your hardware (CPU/GPU)
+Pillow==9.2.0       # For image processing
+matplotlib==3.5.3   # To display images (optional)
+python-docx==0.8.11  # For handling Word documents
